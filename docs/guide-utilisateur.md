@@ -157,7 +157,7 @@ Préviens ton papa (Christophe) qui s'occupe de la partie technique avec son ass
 
 | Rôle | Personne | Pour quoi ? |
 |---|---|---|
-| 🎓 **Assistante pédagogique** | Émile (ce bot) | Aide à la rédaction, relecture, conseils |
+| 🎓 **Assistant pédagogique** | Émile (ce bot) | Aide à la rédaction, relecture, conseils |
 | 👨‍💻 **Support technique** | Christophe (papa) | Problèmes de connexion, bugs, configuration |
 | 👨‍🏫 **Directeur de mémoire** | Ton directeurice | Validation du contenu, orientation académique |
 
