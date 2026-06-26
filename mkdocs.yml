@@ -1,0 +1,37 @@
+site_name: Mémoire Émile — Sciences de l'Éducation
+site_description: Wiki du mémoire d'Émile — Assistant de rédaction propulsé par BAVI LEO
+site_author: Émile & LEO
+repo_url: https://github.com/christophedanhier-hash/emile-wiki
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: fr
+  palette:
+    primary: deep purple
+    accent: purple
+  features:
+    - navigation.instant
+    - navigation.top
+    - search.highlight
+
+nav:
+  - 🏠 Accueil: index.md
+  - 📋 Plan: plan.md
+  - 📖 Chapitres:
+    - Introduction: chapitres/chapitre1.md
+    - Cadre théorique: chapitres/chapitre2.md
+    - Méthodologie: chapitres/chapitre3.md
+    - Résultats: chapitres/chapitre4.md
+    - Discussion: chapitres/chapitre5.md
+  - 📚 Bibliographie: bibliographie.md
+  - 📝 Notes: notes.md
+  - 👨‍🏫 Retours directeur: retours-directeur.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - footnotes
+  - toc:
+      permalink: true
