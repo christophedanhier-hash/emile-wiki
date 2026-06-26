@@ -26,6 +26,7 @@ nav:
     - Discussion: chapitres/chapitre5.md
   - 📚 Bibliographie: bibliographie.md
   - 📝 Notes: notes.md
+  - 📖 Guide utilisateur: guide-utilisateur.md
   - 👨‍🏫 Retours directeur: retours-directeur.md
 
 markdown_extensions:
