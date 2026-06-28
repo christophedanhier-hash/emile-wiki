@@ -41,11 +41,15 @@ Bienvenue ! Ce guide t'explique tout ce que tu dois savoir pour utiliser **Émil
 
 ### Démarrer la conversation
 
-1. Une fois Telegram installé, **recherche le contact** avec lequel ce guide t'a été envoyé
-2. Tu arrives directement dans la conversation avec Émile
+**Méthode 1 — Lien direct (le plus simple) :**
+👉 Clique sur ce lien : **[https://t.me/Bureau_ia_emilie_bot](https://t.me/Bureau_ia_emilie_bot)** — il ouvre directement la conversation !
+
+**Méthode 2 — Recherche manuelle :**
+1. Une fois Telegram installé, **recherche « @Bureau_ia_emilie_bot »** (ou « Emilie IA ») dans la barre de recherche
+2. Clique sur le bouton **« Démarrer »** (ou **« Start »**) pour lancer la conversation
 3. **Envoie ton premier message** : dis « Bonjour » ou « Salut Émile » pour commencer !
 
-> 💡 **Astuce :** Tu peux aussi épingler la conversation en haut de ta liste de discussions pour ne pas la perdre.
+> 💡 **Astuce :** Épingle la conversation en haut de ta liste de discussions pour ne pas la perdre.
 
 ---
 
@@ -111,7 +115,7 @@ Tes fichiers sont stockés dans un dossier Google Drive partagé. C'est là que 
 
 Voici les étapes recommandées :
 
-1. **📱 Installe Telegram** et rejoins la conversation
+1. **📱 Installe Telegram** et rejoins la conversation avec [@Bureau_ia_emilie_bot](https://t.me/Bureau_ia_emilie_bot)
 2. **👋 Dis bonjour** à Émile
 3. **📋 Partage ton sujet** de mémoire (même en quelques mots)
 4. **📝 Envoie ton plan** ou le début de ton introduction
