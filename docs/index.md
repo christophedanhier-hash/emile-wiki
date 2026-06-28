@@ -18,9 +18,13 @@ Bienvenue sur le wiki de ton mémoire ! Cet espace est conçu pour t'accompagner
 | 📝 Notes | Idées, questions, pistes de recherche |
 | 👨‍🏫 Retours directeur | Commentaires et suggestions du directeur de mémoire |
 
-## 🤖 Le Bot
+## 🤖 Le Bot (Émile)
 
-Envoie un message au Bot Telegram et il pourra :
+Le bot s'appelle **@Bureau_ia_emilie_bot** (recherche-le dans Telegram).
+
+👉 [**Clique ici pour lui parler**](https://t.me/Bureau_ia_emilie_bot)
+
+Il pourra :
 - Relire un chapitre complet et suggérer des améliorations
 - Vérifier la cohérence entre les parties
 - T'aider à formuler tes arguments
