@@ -74,6 +74,28 @@ C'est très simple : **tu lui parles comme à un camarade de promo**. En frança
 - **Encourageant** — il souligne d'abord ce qui va bien
 - **Respectueux** — il suggère, il n'impose jamais
 
+### ✏️ Modifier un chapitre du wiki via Émile
+
+Tu peux demander à Émile de **mettre à jour un chapitre sur le wiki** directement depuis la conversation. Voici comment faire :
+
+**Commande simple :**
+> *« Émile, mets à jour le chapitre 2 avec le texte suivant : [ton texte] »*
+
+**Ou en deux temps :**
+> *« Émile, peux-tu relire mon chapitre 3 et le mettre à jour sur le wiki ? »*
+> *(Émile relit, suggère des corrections)*
+> *« Oui, applique ces corrections et mets le chapitre à jour. »*
+
+**Ce qui se passe ensuite :**
+1. Émile confirme qu'il a bien reçu le texte
+2. Le wiki se met à jour automatiquement (~1 minute)
+3. Tu peux vérifier le résultat sur [emile-wiki.github.io](https://christophedanhier-hash.github.io/emile-wiki/)
+
+**Bon à savoir :**
+- ✅ Le wiki garde l'historique de toutes les versions (tu ne perds jamais rien)
+- ✅ Tu peux toujours revenir en arrière
+- ✅ Émile t'indiquera si le texte est trop long ou s'il y a un problème
+
 ---
 
 ## 4. 📋 Les formats de réponse types
