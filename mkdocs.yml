@@ -39,3 +39,10 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
+
+plugins:
+  - search
+  - print-site:
+      add_to_navigation: true
+      print_page_title: 'Imprimer en PDF'
+      add_print_site_banner: false
