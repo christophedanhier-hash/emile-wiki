@@ -31,5 +31,5 @@ Il pourra :
 - Suggérer des références complémentaires
 
 ---
-> 🕐 **Dernière mise en ligne : 22/07/2026 17:26**  
+> 🕐 **Dernière mise en ligne : 22/07/2026 18:00**  
 > *Propulsé par BAVI LEO — Bureau Émile*
