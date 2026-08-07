@@ -74,27 +74,32 @@ C'est très simple : **tu lui parles comme à un camarade de promo**. En frança
 - **Encourageant** — il souligne d'abord ce qui va bien
 - **Respectueux** — il suggère, il n'impose jamais
 
-### ✏️ Modifier un chapitre du wiki via Émile
+### 🧭 Travailler avec Émile : du chat à la production
 
-Tu peux demander à Émile de **mettre à jour un chapitre sur le wiki** directement depuis la conversation. Voici comment faire :
+Émile n'est pas seulement une conversation : il est le **partenaire de production** de ton mémoire.
 
-**Commande simple :**
-> *« Émile, mets à jour le chapitre 2 avec le texte suivant : [ton texte] »*
+Le bon réflexe est donc :
 
-**Ou en deux temps :**
-> *« Émile, peux-tu relire mon chapitre 3 et le mettre à jour sur le wiki ? »*
-> *(Émile relit, suggère des corrections)*
-> *« Oui, applique ces corrections et mets le chapitre à jour. »*
+1. **Tu échanges avec Émile** pour explorer une idée, demander une relecture ou résoudre un blocage.
+2. **Tu valides la direction** : c'est toujours toi qui décides ce qui représente ton travail et ta pensée.
+3. **Tu demandes l'intégration** : par exemple, *« Émile, intègre la version validée dans le mémoire. »*
+4. Émile met alors à jour le bon espace : le **wiki Markdown** (source structurée) et, si nécessaire, le **Google Doc v5** (manuscrit modifiable).
 
-**Ce qui se passe ensuite :**
-1. Émile confirme qu'il a bien reçu le texte
-2. Le wiki se met à jour automatiquement (~1 minute)
-3. Tu peux vérifier le résultat sur [emile-wiki.github.io](https://christophedanhier-hash.github.io/emile-wiki/)
+> 💡 **Tu ne dois pas recopier seule** une réponse Telegram dans ton mémoire. Si le travail est validé, demande simplement à Émile de le produire dans le document approprié.
 
-**Bon à savoir :**
-- ✅ Le wiki garde l'historique de toutes les versions (tu ne perds jamais rien)
-- ✅ Tu peux toujours revenir en arrière
-- ✅ Émile t'indiquera si le texte est trop long ou s'il y a un problème
+**Exemples de demandes utiles :**
+
+| Tu veux… | Tu peux dire… |
+|---|---|
+| Produire un passage validé | *« Émile, intègre cette formulation dans l'introduction du mémoire. »* |
+| Relire puis intégrer | *« Relis mon analyse ; si je valide tes propositions, mets ensuite à jour le wiki et le Google Doc. »* |
+| Travailler dans le Doc | *« J'ai modifié le paragraphe sur l'autonomie dans le Doc v5 : vérifie la cohérence avec le wiki. »* |
+| Préparer la suite | *« Construisons ensemble la première proposition de solution, puis intègre seulement la version que je valide. »* |
+
+**Garantie de traçabilité :**
+- ✅ Le wiki garde l'historique des versions
+- ✅ Le Google Doc v5 reste le manuscrit que tu peux modifier directement
+- ✅ Le PDF déjà envoyé au directeur reste la référence de la version actuelle
 
 ---
 
@@ -127,9 +132,10 @@ Il contient :
 - **🔍 Analyse réflexive** — Le constat terrain et son analyse
 - **🎯 Hypothèse** — L'hypothèse centrale et ses piliers
 - **🧠 Cadre théorique** — Tes fondements scientifiques
-- **💡 Propositions de solutions** — Le plan détaillé des dispositifs pédagogiques
+- **💡 Propositions de solutions** — Section officielle à produire progressivement avec Émile
+- **✅ Conclusion** et **📎 Annexes** — Sections prévues pour la suite
 - **📚 Bibliographie** — Tes références au format APA
-- **📝 Notes** — Tes idées, questions, historique des conversations
+- **📝 Notes** — Tes idées, questions, historique des conversations et plan de production interne
 - **👨‍🏫 Retours directeur** — Les commentaires de ton directeur de mémoire
 
 ### Le Drive 📁
@@ -148,7 +154,9 @@ Tes fichiers sont stockés dans un **dossier Google Drive partagé**. C'est là 
 3. Le fichier apparaît dans le Drive **et** sera pris en compte dans le wiki
 
 #### 🔗 Liens utiles
-- 📄 [Mémoire — version PDF envoyée au réviseur (07/08)](https://drive.google.com/file/d/1ViMn8RVEvDOSNKhqOtPzYzYb3ZQvgZNl/view?usp=sharing)
+- 📝 [Google Doc de travail v5 — à modifier directement](https://docs.google.com/document/d/1cIro-3S4PtOC7to_AUXqjrtnhZgWZkSi3vRQ6hUVEQ4/edit?usp=drivesdk)
+- 👁️ [Référence visuelle PDF — pour comparer la mise en page](https://docs.google.com/document/d/1bsNeBfm8_8VRmBAN0sW-O3imEZAzTsYThDsPneILs60/edit?usp=drivesdk)
+- 📄 [Mémoire — PDF envoyé au réviseur (07/08)](https://drive.google.com/file/d/1ViMn8RVEvDOSNKhqOtPzYzYb3ZQvgZNl/view?usp=sharing)
 
 ---
 
