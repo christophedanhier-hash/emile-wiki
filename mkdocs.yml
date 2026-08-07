@@ -28,7 +28,9 @@ nav:
     - Résultats: chapitres/chapitre4.md
     - Discussion: chapitres/chapitre5.md
   - 📚 Bibliographie: bibliographie.md
-  - 📝 Notes: notes.md
+  - 📝 Notes: 
+    - Générales: notes.md
+    - Historique conversations: notes/historique_conversations.md
   - 📖 Guide utilisateur: guide-utilisateur.md
   - 👨‍🏫 Retours directeur: retours-directeur.md
 
