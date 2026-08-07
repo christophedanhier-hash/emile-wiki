@@ -1,21 +1,28 @@
-# 📋 Plan du mémoire
+# 📋 Plan du mémoire — Émilie Dhr
 
-> *À compléter avec la problématique, les axes de recherche et la structure détaillée.*
+> **Structure validée** — conforme au document de travail (PDF 23 pages) et au template officiel.
 
-## Problématique
+## Question de recherche
 
-...
+> « Quelle pratique pédagogique contribue au développement des compétences d'autonomie, d'insertion sociale et d'insertion professionnelle chez les élèves de forme 2 de l'enseignement spécialisé ? »
 
-## Axes de recherche
+## Structure complète du document
 
-1. ...
-2. ...
-3. ...
+| Section | Contenu | Statut |
+|---|---|---|
+| I. Table des matières | Pagination complète | ✅ À générer en fin de rédaction |
+| II. Introduction | A. Problématique ciblée et description<br>B. Analyse réflexive | ✅ Rédigé et validé |
+| III. Hypothèse | Pédagogie active + différenciation systématique → autonomie durable | ✅ Rédigé et validé |
+| IV. Fondements scientifiques | A. Cadre institutionnel et légal (types, formes, Forme 2)<br>B. Psychopédagogie de l'autonomie (Deci & Ryan, Bandura, Seligman, transfert)<br>C. Leviers didactiques (Piaget, Vygotsky, Dewey, Kolb, Flavell, Tomlinson, Bruner, neuropsychologie, empowerment) | ✅ Rédigé et validé |
+| **V. Propositions de solutions concrètes** | **Dispositifs pédagogiques opérationnels répondant à la question de recherche** | ⏳ **À rédiger (7 p.)** |
+| VI. Conclusion | A. Réflexion critique<br>B. Synthèse | ⏳ À rédiger (2 p.) |
+| VII. Annexes | Supports, grilles, exemples | ⏳ À compléter |
+| VIII. Bibliographie | Références APA 7e éd. (francophones) | ✅ Rédigé |
+| IX. Sitographie | Sources web officielles | ✅ Rédigé |
 
-## Structure prévue
+## Prochaines étapes
 
-1. Introduction
-2. Cadre théorique
-3. Méthodologie
-4. Résultats
-5. Discussion
+1. **V. Propositions de solutions concrètes (7 p.)** — plan détaillé dans `propositions_solutions.md`
+2. **VI. Conclusion (2 p.)** — réflexion critique + synthèse
+3. **VII. Annexes** — supports pédagogiques cités (check-lists, grilles d'auto-évaluation, fiche de suivi d'autonomie)
+4. **Mise en forme finale** — reproduire le template du PDF dans le Google Doc
