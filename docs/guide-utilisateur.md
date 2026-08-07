@@ -121,15 +121,34 @@ Quand tu demandes une relecture, Émile répond toujours en 3 parties :
 Le wiki est accessible à l'adresse : **[https://christophedanhier-hash.github.io/emile-wiki/](https://christophedanhier-hash.github.io/emile-wiki/)**
 
 Il contient :
-- **🏠 Accueil** — Présentation générale
-- **📋 Plan** — La structure de ton mémoire
-- **📖 Chapitres** — Tes brouillons (Introduction, Cadre théorique, Méthodologie, Résultats, Discussion)
+- **🏠 Accueil** — Présentation générale + accès rapide au Drive
+- **📋 Plan** — La structure de ton mémoire + statut de chaque section
+- **📖 Introduction** — Problématique ciblée et description
+- **🔍 Analyse réflexive** — Le constat terrain et son analyse
+- **🎯 Hypothèse** — L'hypothèse centrale et ses piliers
+- **🧠 Cadre théorique** — Tes fondements scientifiques
+- **💡 Propositions de solutions** — Le plan détaillé des dispositifs pédagogiques
 - **📚 Bibliographie** — Tes références au format APA
-- **📝 Notes** — Tes idées, questions, pistes
+- **📝 Notes** — Tes idées, questions, historique des conversations
 - **👨‍🏫 Retours directeur** — Les commentaires de ton directeur de mémoire
 
 ### Le Drive 📁
-Tes fichiers sont stockés dans un dossier Google Drive partagé. C'est là que tu rédiges tes brouillons, qui sont ensuite automatiquement mis à jour sur le wiki.
+
+Tes fichiers sont stockés dans un **dossier Google Drive partagé**. C'est là que tu rédiges tes brouillons, que tu déposes tes versions et que tu retrouves tous tes documents.
+
+👉 **[Ouvrir le dossier Drive partagé `bavi/bureau-emilie`](https://drive.google.com/drive/u/0/folders/1eJ2cMnD-0Uqfs2SQ2L4guLTIldo1_vIP)**
+
+#### ✅ Voir tes documents
+- Clique sur le lien ci-dessus pour **voir tous tes fichiers** (brouillons, versions du mémoire, PDF envoyés au réviseur, template officiel)
+- Les documents sont **synchronisés automatiquement** vers le wiki
+
+#### 📤 Déposer un document
+1. Ouvre le lien du Drive (ci-dessus)
+2. Clique sur **« Nouveau »** → **« Importation de fichiers »** (ou glisse-dépose directement tes fichiers dans le dossier)
+3. Le fichier apparaît dans le Drive **et** sera pris en compte dans le wiki
+
+#### 🔗 Liens utiles
+- 📄 [Mémoire — version PDF envoyée au réviseur (07/08)](https://drive.google.com/file/d/1ViMn8RVEvDOSNKhqOtPzYzYb3ZQvgZNl/view?usp=sharing)
 
 ---
 
@@ -149,7 +168,9 @@ Voici les étapes recommandées :
 
 <details>
 <summary><strong>Émile peut-il relire un document Word ou PDF ?</strong></summary>
-Pour l'instant, il lit mieux le texte copié-collé directement dans la conversation. Tu peux copier un extrait de ton chapitre et le coller.
+Oui ! Tu peux :
+- **Copier-coller** un extrait de ton chapitre directement dans la conversation, ou
+- **Déposer ton fichier dans le Drive partagé** (lien dans la section 5) et demander à Émile d'aller le lire pour le relire ou le synchroniser sur le wiki.
 </details>
 
 <details>
