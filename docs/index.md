@@ -6,7 +6,7 @@ Bienvenue sur le wiki de ton mémoire ! Cet espace est conçu pour t'accompagner
 
 ## 📁 Accès direct à tes documents
 
-> 👉 **[Ouvrir le dossier Google Drive partagé `bavi/bureau-emilie`](https://drive.google.com/drive/u/0/folders/1eJ2cMnD-0Uqfs2SQ2L4guLTIldo1_vIP)**
+> 👉 **[Ouvrir le dossier Google Drive partagé `bavi/bureau-emilie`](https://drive.google.com/drive/u/0/folders/1eJ2cMnD-0Uqfs2SQ2L4guLTIld1o_vIP)**
 >
 > - 🔍 **Voir** tous tes documents (brouillons, versions du mémoire, PDF envoyés au réviseur, template)
 > - 📤 **Déposer** de nouveaux fichiers (un brouillon, une version corrigée, des notes)

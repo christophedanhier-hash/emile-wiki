@@ -136,7 +136,7 @@ Il contient :
 
 Tes fichiers sont stockés dans un **dossier Google Drive partagé**. C'est là que tu rédiges tes brouillons, que tu déposes tes versions et que tu retrouves tous tes documents.
 
-👉 **[Ouvrir le dossier Drive partagé `bavi/bureau-emilie`](https://drive.google.com/drive/u/0/folders/1eJ2cMnD-0Uqfs2SQ2L4guLTIldo1_vIP)**
+👉 **[Ouvrir le dossier Drive partagé `bavi/bureau-emilie`](https://drive.google.com/drive/u/0/folders/1eJ2cMnD-0Uqfs2SQ2L4guLTIld1o_vIP)**
 
 #### ✅ Voir tes documents
 - Clique sur le lien ci-dessus pour **voir tous tes fichiers** (brouillons, versions du mémoire, PDF envoyés au réviseur, template officiel)
