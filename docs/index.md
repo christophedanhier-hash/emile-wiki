@@ -38,7 +38,7 @@ Bienvenue sur le wiki de ton mémoire ! Cet espace est conçu pour t'accompagner
 4. Tu n'as donc pas à reconstruire seule le mémoire par copier-coller depuis une conversation.
 5. Avant une nouvelle version destinée au directeur, Émile vérifie la cohérence du wiki, du Google Doc et du rendu PDF.
 
-👉 **[Ouvrir le Google Doc de travail V6](https://docs.google.com/document/d/1KalWkEVSpFLcOd54Ul8taRjKWMKOHJ727lBHmhyku6M/edit?usp=drivesdk)**  
+👉 **[Ouvrir le Google Doc de travail V6](https://docs.google.com/document/d/16tAW3xEfrdSG1WesTyB3BCSUyr19S4oM9DSqDaSEYpY/edit?usp=drivesdk)**  
 👉 **[Consulter la référence visuelle du PDF transmis (23 pages)](https://docs.google.com/document/d/1bsNeBfm8_8VRmBAN0sW-O3imEZAzTsYThDsPneILs60/edit?usp=drivesdk)**
 
 ## 📖 Comment ça marche

@@ -154,7 +154,7 @@ Tes fichiers sont stockés dans un **dossier Google Drive partagé**. C'est là 
 3. Le fichier apparaît dans le Drive **et** sera pris en compte dans le wiki
 
 #### 🔗 Liens utiles
-- 📝 [Google Doc de travail V6 — à modifier directement](https://docs.google.com/document/d/1KalWkEVSpFLcOd54Ul8taRjKWMKOHJ727lBHmhyku6M/edit?usp=drivesdk)
+- 📝 [Google Doc de travail V6 — à modifier directement](https://docs.google.com/document/d/16tAW3xEfrdSG1WesTyB3BCSUyr19S4oM9DSqDaSEYpY/edit?usp=drivesdk)
 - 👁️ [Référence visuelle PDF — pour comparer la mise en page](https://docs.google.com/document/d/1bsNeBfm8_8VRmBAN0sW-O3imEZAzTsYThDsPneILs60/edit?usp=drivesdk)
 - 📄 [Mémoire — PDF envoyé au réviseur (07/08)](https://drive.google.com/file/d/1ViMn8RVEvDOSNKhqOtPzYzYb3ZQvgZNl/view?usp=sharing)
 

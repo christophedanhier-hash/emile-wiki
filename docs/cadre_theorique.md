@@ -18,7 +18,7 @@ L'organisation de ce système repose sur une structure rigoureuse, articulée au
 | Type 2 | Pour les élèves ayant un retard mental modéré ou sévère |
 | Type 3 | Pour les élèves ayant des troubles du comportement |
 | Type 4 | Pour les élèves ayant une/des déficience(s) physique(s) |
-| Type 5 | Pour les élèves présentant une/des maladie(s) ou ceux en convalescence |
+| Type 5 | Pour les élèves présentant une/des maladie(s) ou ceux en convalescents |
 | Type 6 | Pour les élèves ayant une déficience visuelle |
 | Type 7 | Pour les élèves ayant une déficience auditive |
 | Type 8 | Pour les élèves présentant des troubles de l'apprentissage |
