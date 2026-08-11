@@ -28,7 +28,7 @@ Bienvenue sur le wiki de ton mémoire ! Cet espace est conçu pour t'accompagner
 |---|---|---|
 | **Telegram avec Émile** | Réflexion, demandes, questions et validation | Tu poses une question ou tu travailles une idée avec moi |
 | **Wiki Markdown** | Source structurée et versionnée du contenu | Émile y conserve le texte de référence et l'historique utile |
-| **Google Doc v5** | Manuscrit modifiable d'Émilie | Tu relis, modifies directement un mot, ajoutes un passage ou prépares l'envoi suivant |
+| **Google Doc V6** | Manuscrit modifiable d'Émilie | Tu relis, modifies directement un mot, ajoutes un passage ou prépares l'envoi suivant |
 
 ### Notre règle de travail
 
@@ -38,13 +38,13 @@ Bienvenue sur le wiki de ton mémoire ! Cet espace est conçu pour t'accompagner
 4. Tu n'as donc pas à reconstruire seule le mémoire par copier-coller depuis une conversation.
 5. Avant une nouvelle version destinée au directeur, Émile vérifie la cohérence du wiki, du Google Doc et du rendu PDF.
 
-👉 **[Ouvrir le Google Doc de travail v5](https://docs.google.com/document/d/1cIro-3S4PtOC7to_AUXqjrtnhZgWZkSi3vRQ6hUVEQ4/edit?usp=drivesdk)**  
+👉 **[Ouvrir le Google Doc de travail V6](https://docs.google.com/document/d/1KalWkEVSpFLcOd54Ul8taRjKWMKOHJ727lBHmhyku6M/edit?usp=drivesdk)**  
 👉 **[Consulter la référence visuelle du PDF transmis (23 pages)](https://docs.google.com/document/d/1bsNeBfm8_8VRmBAN0sW-O3imEZAzTsYThDsPneILs60/edit?usp=drivesdk)**
 
 ## 📖 Comment ça marche
 
 - **Tu peux déposer** un document ou une note dans le Drive partagé.
-- **Tu peux modifier** directement le Google Doc v5 : Émile peut ensuite synchroniser et contrôler la version de référence.
+- **Tu peux modifier** directement le Google Doc V6 : Émile peut ensuite synchroniser et contrôler la version de référence.
 - **Tu peux simplement parler à Émile** : si ton échange débouche sur un élément important, demande-moi : *« Émile, intègre cela dans le mémoire »*. Je produirai l'artefact au bon endroit.
 
 ---

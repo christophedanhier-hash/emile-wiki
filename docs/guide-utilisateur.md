@@ -83,7 +83,7 @@ Le bon réflexe est donc :
 1. **Tu échanges avec Émile** pour explorer une idée, demander une relecture ou résoudre un blocage.
 2. **Tu valides la direction** : c'est toujours toi qui décides ce qui représente ton travail et ta pensée.
 3. **Tu demandes l'intégration** : par exemple, *« Émile, intègre la version validée dans le mémoire. »*
-4. Émile met alors à jour le bon espace : le **wiki Markdown** (source structurée) et, si nécessaire, le **Google Doc v5** (manuscrit modifiable).
+4. Émile met alors à jour le bon espace : le **wiki Markdown** (source structurée) et, si nécessaire, le **Google Doc V6** (manuscrit modifiable).
 
 > 💡 **Tu ne dois pas recopier seule** une réponse Telegram dans ton mémoire. Si le travail est validé, demande simplement à Émile de le produire dans le document approprié.
 
@@ -98,7 +98,7 @@ Le bon réflexe est donc :
 
 **Garantie de traçabilité :**
 - ✅ Le wiki garde l'historique des versions
-- ✅ Le Google Doc v5 reste le manuscrit que tu peux modifier directement
+- ✅ Le Google Doc V6 reste le manuscrit que tu peux modifier directement
 - ✅ Le PDF déjà envoyé au directeur reste la référence de la version actuelle
 
 ---
@@ -154,7 +154,7 @@ Tes fichiers sont stockés dans un **dossier Google Drive partagé**. C'est là 
 3. Le fichier apparaît dans le Drive **et** sera pris en compte dans le wiki
 
 #### 🔗 Liens utiles
-- 📝 [Google Doc de travail v5 — à modifier directement](https://docs.google.com/document/d/1cIro-3S4PtOC7to_AUXqjrtnhZgWZkSi3vRQ6hUVEQ4/edit?usp=drivesdk)
+- 📝 [Google Doc de travail V6 — à modifier directement](https://docs.google.com/document/d/1KalWkEVSpFLcOd54Ul8taRjKWMKOHJ727lBHmhyku6M/edit?usp=drivesdk)
 - 👁️ [Référence visuelle PDF — pour comparer la mise en page](https://docs.google.com/document/d/1bsNeBfm8_8VRmBAN0sW-O3imEZAzTsYThDsPneILs60/edit?usp=drivesdk)
 - 📄 [Mémoire — PDF envoyé au réviseur (07/08)](https://drive.google.com/file/d/1ViMn8RVEvDOSNKhqOtPzYzYb3ZQvgZNl/view?usp=sharing)
 
