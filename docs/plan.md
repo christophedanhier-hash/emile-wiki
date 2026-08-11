@@ -1,6 +1,6 @@
 # 📋 Plan du mémoire — Émilie Dhr
 
-> **Structure validée** — conforme au document de travail (PDF 23 pages) et au template officiel.
+> **Structure validée** — conforme au document envoyé au réviseur (PDF 42 pages) et au template officiel.
 
 ## Question de recherche
 
@@ -19,10 +19,3 @@
 | VII. Annexes | 9 supports pédagogiques (schémas, grilles, fiches, contrats) | ✅ Complété |
 | VIII. Bibliographie | Références APA 7e éd. (francophones) | ✅ Rédigé |
 | IX. Sitographie | Sources web officielles | ✅ Rédigé |
-
-## Prochaines étapes
-
-1. **V. Propositions de solutions concrètes (7 p.)** — plan détaillé dans `propositions_solutions.md`
-2. **VI. Conclusion (2 p.)** — réflexion critique + synthèse
-3. **VII. Annexes** — supports pédagogiques cités (check-lists, grilles d'auto-évaluation, fiche de suivi d'autonomie)
-4. **Mise en forme finale** — reproduire le template du PDF dans le Google Doc
