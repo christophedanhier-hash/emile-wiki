@@ -14,9 +14,9 @@
 | II. Introduction | A. Problématique ciblée et description<br>B. Analyse réflexive | ✅ Rédigé et validé |
 | III. Hypothèse | Pédagogie active + différenciation systématique → autonomie durable | ✅ Rédigé et validé |
 | IV. Fondements scientifiques | A. Cadre institutionnel et légal (types, formes, Forme 2)<br>B. Psychopédagogie de l'autonomie (Deci & Ryan, Bandura, Seligman, transfert)<br>C. Leviers didactiques (Piaget, Vygotsky, Dewey, Kolb, Flavell, Tomlinson, Bruner, neuropsychologie, empowerment) | ✅ Rédigé et validé |
-| **V. Propositions de solutions concrètes** | **Dispositifs pédagogiques opérationnels répondant à la question de recherche** | ⏳ **À rédiger (7 p.)** |
-| VI. Conclusion | A. Réflexion critique<br>B. Synthèse | ⏳ À rédiger (2 p.) |
-| VII. Annexes | Supports, grilles, exemples | ⏳ À compléter |
+| **V. Propositions de solutions concrètes** | **Dispositifs pédagogiques opérationnels répondant à la question de recherche** | ✅ Rédigé et validé |
+| VI. Conclusion | A. Retour sur la question et l'hypothèse<br>B. Analyse critique des pistes<br>C. Répercussions sur la pratique | ✅ Rédigé et validé |
+| VII. Annexes | 9 supports pédagogiques (schémas, grilles, fiches, contrats) | ✅ Complété |
 | VIII. Bibliographie | Références APA 7e éd. (francophones) | ✅ Rédigé |
 | IX. Sitographie | Sources web officielles | ✅ Rédigé |
 
