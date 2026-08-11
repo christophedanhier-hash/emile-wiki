@@ -39,7 +39,8 @@ Bienvenue sur le wiki de ton mémoire ! Cet espace est conçu pour t'accompagner
 5. Avant une nouvelle version destinée au directeur, Émile vérifie la cohérence du wiki, du Google Doc et du rendu PDF.
 
 👉 **[Ouvrir le Google Doc de travail V6](https://docs.google.com/document/d/16tAW3xEfrdSG1WesTyB3BCSUyr19S4oM9DSqDaSEYpY/edit?usp=drivesdk)**  
-👉 **[Consulter la référence visuelle du PDF transmis (23 pages)](https://docs.google.com/document/d/1bsNeBfm8_8VRmBAN0sW-O3imEZAzTsYThDsPneILs60/edit?usp=drivesdk)**
+👉 **[Consulter la référence visuelle du PDF transmis (23 pages)](https://docs.google.com/document/d/1bsNeBfm8_8VRmBAN0sW-O3imEZAzTsYThDsPneILs60/edit?usp=drivesdk)**  
+👉 🎓 **[Préparer la défense orale devant le jury](https://christophedanhier-hash.github.io/emile-wiki/defense-jury/)** *(évaluation, questions probables, réponses types)*
 
 ## 📖 Comment ça marche
 

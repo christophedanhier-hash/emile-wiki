@@ -157,6 +157,8 @@ Tes fichiers sont stockés dans un **dossier Google Drive partagé**. C'est là 
 - 📝 [Google Doc de travail V6 — à modifier directement](https://docs.google.com/document/d/16tAW3xEfrdSG1WesTyB3BCSUyr19S4oM9DSqDaSEYpY/edit?usp=drivesdk)
 - 👁️ [Référence visuelle PDF — pour comparer la mise en page](https://docs.google.com/document/d/1bsNeBfm8_8VRmBAN0sW-O3imEZAzTsYThDsPneILs60/edit?usp=drivesdk)
 - 📄 [Mémoire — PDF envoyé au réviseur (07/08)](https://drive.google.com/file/d/1ViMn8RVEvDOSNKhqOtPzYzYb3ZQvgZNl/view?usp=sharing)
+- 🎓 [Préparation défense orale — PDF](https://drive.google.com/file/d/1LNdtQw-z2sT-kftP5g6lPACBhy2I0T-M/view?usp=drivesdk)
+- 🎓 [Préparation défense orale — Google Doc (annotable)](https://docs.google.com/document/d/1yQJqY8o6T21_NvkUe0s-8QyGTk6VabYXaVMKw-9ykQk/edit?usp=drivesdk)
 
 ---
 
